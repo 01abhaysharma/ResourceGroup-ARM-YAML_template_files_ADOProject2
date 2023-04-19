@@ -1,1 +1,1 @@
-# ResourceGroup-ARM-YML_files_ADOProject2
+# ResourceGroup-ARM-YAML_template_files_ADOProject2
